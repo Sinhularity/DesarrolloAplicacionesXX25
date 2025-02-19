@@ -1,0 +1,3 @@
+total 1
+-rw-r--r-- 1 ESTUDIANTES+zS22017021 4266656257   0 Feb 19 15:57 datos.txt
+-rw-r--r-- 1 ESTUDIANTES+zS22017021 4266656257 402 Feb 17 16:47 index.html
